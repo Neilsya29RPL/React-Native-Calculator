@@ -1,2 +1,2 @@
 # Calculator With React Native
-![Screenshot_1658467372](https://user-images.githubusercontent.com/68727623/180423918-689d8ca8-db5a-424d-8315-8d756c57fe21.png)
+<img width="432" alt="Screenshot_1658467372" src="https://user-images.githubusercontent.com/68727623/180424235-dc43d7b5-f099-4ef6-8fc6-af020c9f856f.png">
